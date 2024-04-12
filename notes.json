@@ -1,0 +1,1 @@
+{"_id":{"$oid":"661992932ffe4af1d216c9b6"},"note_id":1,"user_id":1,"title":"Meeting Notes","content":"Lorem ipsum dolor sit amet...","created_at":{"$date":"2024-04-12T19:59:15.601Z"},"tags":["work","meeting"],"attachments":[{"filename":"notes.pdf","url":"https://example.com/notes.pdf"}]}
