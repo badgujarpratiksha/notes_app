@@ -1,0 +1,41 @@
+# Node.js
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore yarn debug log
+yarn-debug.log
+yarn-error.log
+
+# Ignore local configuration
+.env
+
+# Ignore built files
+/build
+
+# Ignore dependencies installed via npm
+package-lock.json
+
+
+# Visual Studio Code
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore project-specific settings
+*.code-workspace
+
+# Ignore VS Code settings file
+.settings.json
+
+# Ignore user-specific VS Code settings
+.vscode/settings.json
+
+# Ignore VS Code workspace settings
+.vscode/*.code-workspace
+
+# Ignore Visual Studio Code auto-generated folder for debugging
+.vscode/.ipynb_checkpoints/
