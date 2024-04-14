@@ -95,7 +95,7 @@ app.post('/api/users', async (req, res) => {
     }
 });
 
-// Start the server
+// Start the server on 3000
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
