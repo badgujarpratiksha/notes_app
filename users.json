@@ -1,1 +1,25 @@
-{"_id":{"$oid":"6619927f2ffe4af1d216c9b5"},"user_id":1,"username":"john_doe","email":"john@example.com","password":"hashed_password","first_name":"John","last_name":"Doe","date_of_birth":{"$date":"1990-05-15T00:00:00Z"},"profile_image":"https://example.com/profile.jpg","created_at":{"$date":"2024-04-12T19:58:55.272Z"},"last_login_at":{"$date":"2024-04-12T19:58:55.272Z"},"is_active":true,"roles":["user"]}
+{
+    "_id": {
+        "$oid": "6619927f2ffe4af1d216c9b5"
+    },
+    "user_id": 1,
+    "username": "john_doe",
+    "email": "john@example.com",
+    "password": "hashed_password",
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": {
+        "$date": "1990-05-15T00:00:00Z"
+    },
+    "profile_image": "https://example.com/profile.jpg",
+    "created_at": {
+        "$date": "2024-04-12T19:58:55.272Z"
+    },
+    "last_login_at": {
+        "$date": "2024-04-12T19:58:55.272Z"
+    },
+    "is_active": true,
+    "roles": [
+        "user"
+    ]
+}
